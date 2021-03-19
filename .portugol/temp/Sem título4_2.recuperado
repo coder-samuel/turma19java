@@ -1,0 +1,30 @@
+programa
+{
+	
+	funcao inicio()
+	{
+		inteiro idadeAnos, idadeMeses, idadeDias
+		escreva("Para converter a sua idade, de anos para dias de vida, por  favor, preencha com as seguintes informações:\nQuantos anos de vida você tem?")
+		leia(idadeAnos)
+		escreva("Somando aos anos de vida, informe quantos meses você tem além dos anos:")
+		leia(idadeMeses)
+		escreva("Para finalizar, informe os dias vividos:")  
+		leia(idadeDias)
+
+		inteiro diasTotais
+		diasTotais = ((idadeAnos * 365) + (30 * idadeMeses) + idadeDias)
+
+		escreva("No 'check list' da vida, você já viveu ",diasTotais," dias.")
+	}
+}
+/* $$$ Portugol Studio $$$ 
+ * 
+ * Esta seção do arquivo guarda informações do Portugol Studio.
+ * Você pode apagá-la se estiver utilizando outro editor.
+ * 
+ * @POSICAO-CURSOR = 196; 
+ * @PONTOS-DE-PARADA = ;
+ * @SIMBOLOS-INSPECIONADOS = ;
+ * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
+ * @FILTRO-ARVORE-TIPOS-DE-SIMBOLO = variavel, vetor, matriz, funcao;
+ */
