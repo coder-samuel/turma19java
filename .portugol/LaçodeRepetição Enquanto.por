@@ -11,7 +11,6 @@ programa
 		escreva("Digite o número que você deseja efetuar a multiplicação por 3:")
 		leia(primeiroValor)
 
-		escreva(primeiroValor) 
 		valor = primeiroValor
 		
 		enquanto (valor  < 100) 
@@ -26,7 +25,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 472; 
+ * @POSICAO-CURSOR = 530; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
