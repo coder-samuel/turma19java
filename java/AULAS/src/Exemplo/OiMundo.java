@@ -8,5 +8,5 @@ public class OiMundo {
 		System.out.println("Oi, turma 19 generation!");
 		System.out.println("Vamos programar em Java!");
 	}
-	
+
 }
