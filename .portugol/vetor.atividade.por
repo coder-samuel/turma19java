@@ -10,7 +10,7 @@ programa
      	
       	para(inteiro i=0; i<=4; i++) {
 			
-			escreva("\n digite um valor: \n")
+			escreva("\n Digite um valor: \n")
 			leia (vetor[i])
 
 			escreva("O valor do vetor na posicao " + i + " é: " + vetor[i] )
@@ -32,7 +32,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 0; 
+ * @POSICAO-CURSOR = 398; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
