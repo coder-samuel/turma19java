@@ -16,7 +16,7 @@ public class Passagem {
 		
 		System.out.printf("A companhia área é %s", modelo1.nomeCompanhia);
 		System.out.printf("\nO número do assento é %d", modelo1.numeroAcentos);
-		System.out.printf("\nAclasse do voo escolhida é %s", modelo1.classe);
+		System.out.printf("\nA classe do voo escolhida é %s", modelo1.classe);
 		
 		
 		// TODO Auto-generated method stub
